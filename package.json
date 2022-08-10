@@ -3,8 +3,8 @@
     "version": "0.1.0",
     "displayName": "Permutations Package",
     "description": "This is a unity package to create a permutations library to help a fast development.",
-    "unity": "2020.0",
-    "unityRelease": "0b5",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
     "documentationUrl": "https://example.com/",
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
@@ -14,6 +14,10 @@
       "permutations"
     ],
     "author": {
-      "name": "barrica_games"
-    }
+      "name": "barrica_games",
+      "email": "example@example.com",
+      "url": "https://example.com/"
+    },
+    "type": "library",
+    "hideInEditor": false
   }
