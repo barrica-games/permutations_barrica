@@ -1,0 +1,19 @@
+{
+    "name": "com.barrica_games.permutations",
+    "version": "0.1.0",
+    "displayName": "Permutations Package",
+    "description": "This is a unity package to create a permutations library to help a fast development.",
+    "unity": "2020.0",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+   },
+   "keywords": [
+      "permutations"
+    ],
+    "author": {
+      "name": "barrica_games"
+    }
+  }
